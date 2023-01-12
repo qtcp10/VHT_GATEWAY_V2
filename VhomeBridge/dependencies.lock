@@ -1,0 +1,21 @@
+dependencies:
+  espressif/button:
+    component_hash: 70fc59378878dd93b22dbc40c8c78a32da53126d59439c173398274165ebf99a
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.0.1
+  espressif/esp-freertos-coremqtt:
+    component_hash: a54d7dadb2eca5f4ca2b30f66ae0a240d5dc9af2d399c09a352be54141d79294
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.0.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.0
+manifest_hash: 830db1fe178e286255012974a488808665722f607be98fb1a52ca2ff91857bfb
+target: esp32
+version: 1.0.0

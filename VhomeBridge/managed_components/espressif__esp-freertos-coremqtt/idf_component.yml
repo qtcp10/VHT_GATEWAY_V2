@@ -1,0 +1,7 @@
+dependencies:
+  idf:
+    version: ^4.3
+description: The ESP FreeRTOS CoreMQTT is based on coreMQTT and enables users to connect
+  their ESP32 based devices to any MQTT broker.
+url: https://github.com/espressif/esp-freertos-coremqtt
+version: 0.0.1
